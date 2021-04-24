@@ -5,9 +5,12 @@ The code I submitted is intend to fetch lyrics for songs using Genius API.
 It might not run properly without the API permission.
 The code still needs to be polished so there still might be problems.
 
+I am still figuring out how to run this locally and create database for all the songs. So sorry I do not have the dataset yet, I tired. 
+
+My intended project plan is subject to change based on how well I will manage the YouTube API
 
 
-My intended project plan; it is subject to change based on how well I will manage the YouTube API
+
 
 Project Summary: Analyze personality types based on one’s liked videos on YouTube.
 
