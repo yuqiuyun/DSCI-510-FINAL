@@ -1,9 +1,9 @@
 # DSCI-510-FINAL
 I intend to create an application that can analyze a YouTube music playlist, and eventually fetch MBTI personality types for that specific playlist.
 
-The code I submitted is intend to fetch lyrics for songs using Genius API
-It might not run properly without the API permission 
-The code still needs to be polished so there still might be problems 
+The code I submitted is intend to fetch lyrics for songs using Genius API.
+It might not run properly without the API permission.
+The code still needs to be polished so there still might be problems.
 
 
 
