@@ -5,6 +5,7 @@ The zip file inclues:
 3. MBTI.csv
 4. requirements.txt
 5. Project Description.pdf
+6. README.md
 
 How to run:
 1. Install everything in requirements.txt
