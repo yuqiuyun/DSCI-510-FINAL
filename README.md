@@ -9,7 +9,7 @@ The zip file inclues:
 
 How to run:
 1. Install everything in requirements.txt
-- (pip install paralleldots, lyricsgenius and spotipy)
+- (pip install [paralleldots](https://github.com/ParallelDots/ParallelDots-Python-API), [lyricsgenius](https://pypi.org/project/lyricsgenius/)and [spotipy](https://spotipy.readthedocs.io/en/2.18.0/)
 
 2. If would like to generate a new MBTI.csv databse, run MBTI_scrape.py
 -  MBTI_scrape.py only contains codes that scrape data and codes that build a database
