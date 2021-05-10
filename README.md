@@ -12,8 +12,7 @@ How to run:
 2. If would like to generate a new MBTI.csv databse, run MBTI_scrape.py
 -  MBTI_scrape.py only contains codes that scrape data and codes that build a database
 4. Run artist_personality.py
-- Please input a music artist of your choice when running this. Put the artist name in ""
-  For example: python artist_personality.py “Drake”
+- (IMPORTANT) Please input a music artist of your choice when running this. Put the artist name in " ". For example: python artist_personality.py “Drake”
 - It takes in and reads the MBTI.csv
 - Print statements added to indicate progress
 - Output will be the result of the personality analysis, along with a series of keywords associated with that personality type
