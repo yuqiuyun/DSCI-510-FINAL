@@ -9,9 +9,11 @@ The zip file inclues:
 How to run:
 1. Install everything in requirements.txt
 - (pip install paralleldots, lyricsgenius and spotipy)
+
 2. If would like to generate a new MBTI.csv databse, run MBTI_scrape.py
 -  MBTI_scrape.py only contains codes that scrape data and codes that build a database
-4. Run artist_personality.py
+
+3. Run artist_personality.py
 - (IMPORTANT) Please input a music artist of your choice when running this. Put the artist name in "".  For example: python artist_personality.py “Drake”
 - It takes in and reads the MBTI.csv
 - Print statements added to indicate progress
